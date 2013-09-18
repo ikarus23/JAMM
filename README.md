@@ -19,4 +19,10 @@ and Roel Leus](http://jamm.icaria.de/downloads/paper/Mastermind_AI_Paper.pdf).
 You can be the Codemaker and watch the AI breaking the code.
 
 
-
+Build/Edit JAMM
+---------------
+* Run Netbeans (testet on Netbeans IDE 7.3)
+* Select *Open Project...*
+* Browse to the *JAMM* folder of this git repository
+* Press *Open Porject*
+* ... Do what ever you want ;)
