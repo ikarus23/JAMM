@@ -4,3 +4,8 @@
 *.jar
 *.war
 *.ear
+
+# Netbeans stuff #
+JAMM/nbproject/private
+JAMM/build
+JAMM/dist
