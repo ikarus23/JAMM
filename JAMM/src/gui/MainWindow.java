@@ -127,7 +127,7 @@ public class MainWindow extends javax.swing.JFrame {
         JLabel aboutLabel = new JLabel(
                 "<html><b>JAMM</b><br /><b>J</b>ust <b>A</b>nother "
                 + "<b>M</b>aster<b>M</b>ind<br />"
-                + "Version: 0.3 (12.2011)<br />License: GPL v3"
+                + "Version: 0.4 (06.2014)<br />License: GPL v3"
                 + "<br /><br /><b>Developer Team:</b><br />Rene Kuebler<br />"
                 + "Andreas J.<br />Ikarus<br />");
         closeButton.addActionListener(new java.awt.event.ActionListener() {
