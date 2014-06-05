@@ -9,7 +9,8 @@
  * This program is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- * GNU General Public License for more details.
+ * GNU General Public License for more deta
+ils.
  *
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
@@ -1437,7 +1438,7 @@ public class MainWindow extends javax.swing.JFrame {
      */
     private void setLastGuessMenuItemMenuItemActionPerformed(
             java.awt.event.ActionEvent evt) {
-        int i = 4;
+        int i = ci.getSettingWidth();
         if (ci.getGameEnded() == false && ci.getSettingAiMode() == false
                 && ci.getActiveRowNumber() > 0) {
             for (Color c : ci.getGameFieldRow(

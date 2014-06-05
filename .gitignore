@@ -7,5 +7,6 @@
 
 # Netbeans stuff #
 JAMM/nbproject/private
+JAMM/nbproject/build-impl.xml
 JAMM/build
 JAMM/dist
